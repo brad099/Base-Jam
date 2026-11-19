@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64b4a4f52d7743c3b7c0dc23ddeeb4e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336030
+  packageName: Synaptic AI Pro - Natural Language Control for Unity
+  packageVersion: 1.2.28
+  assetPath: Assets/Synaptic AI Pro/Editor/NexusResetMenu.cs
+  uploadId: 999322
